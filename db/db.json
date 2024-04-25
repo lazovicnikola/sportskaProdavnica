@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "name": "Nikola",
+      "email": "nikola@test",
+      "passwoord": "12345"
+    },
+    {
+      "id": "2b01",
+      "email": "lazovic@test",
+      "name": "Laazovi",
+      "password": "1342"
+    },
+    {
+      "id": "b8fb",
+      "name": "nikola",
+      "email": "LAzovic",
+      "password": "dskaoe2"
+    }
+  ]
+}
